@@ -39,7 +39,7 @@ const TRANSLATIONS = {
     catGlasses: "Очки",
     catHair: "Для волос",
     catBeauty: "Бьюти-аксессуары",
-    heroBadge: "UZUM LUXE • ЖЕНСКИЕ АКСЕССУАРЫ",
+    heroBadge: "lumel1 • ЖЕНСКИЕ АКСЕССУАРЫ",
     heroTitle: "Люксовые женские аксессуары с доставкой в пункт выдачи",
     heroSub:
       "36 моделей от Chanel, Dior, Tom Ford, Estée Lauder и La Mer в одном JSX-компоненте с фильтрами, корзиной и отслеживанием в пункте выдачи.",
